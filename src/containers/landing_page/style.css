@@ -13,7 +13,7 @@ body {
 }
 
 /** Keyframe Animations **/
-@-webkit-keyframes loaded {
+@keyframes loaded {
     0% {
         -webkit-transform: scale(0)
     }
@@ -55,7 +55,7 @@ body {
     }
 }
 
-@-webkit-keyframes rotate {
+@keyframes rotate {
     from {
         -webkit-transform: rotate(0)
     }
@@ -85,7 +85,7 @@ body {
     }
 }
 
-@-webkit-keyframes cloud {
+@keyframes cloud {
     0% {
         opacity: 0;
         left: 0
@@ -145,7 +145,7 @@ body {
     }
 }
 
-@-webkit-keyframes cloudAlt {
+@keyframes cloudAlt {
     0% {
         opacity: 0;
         left: 400px
@@ -323,7 +323,7 @@ body {
     transition: opacity 0.5s ease;
 }
 
-@-webkit-keyframes home_hero_item_hints_glow {
+@keyframes home_hero_item_hints_glow {
     0% {
         -webkit-box-shadow: 0 0 30px 5px #48aa48;
         box-shadow: 0 0 30px 5px #48aa48;
@@ -371,7 +371,7 @@ body {
     margin: auto;
 }
 
-@-webkit-keyframes home_hero_item_hints_border {
+@keyframes home_hero_item_hints_border {
 
     0%,
     100% {
@@ -528,10 +528,10 @@ body {
 
 .tip2 {
     position: absolute;
-    margin: -9% 23%;
+    margin: 28% 30%;
 }
 
 .tip3 {
     position: absolute;
-    margin: -19% 19%;
+    margin: 39% 33%;
 }
