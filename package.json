@@ -40,12 +40,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ahmadmustafeen/static_web_upwork.git"
+    "url": "git+https://github.com/akhatem/static_web_upwork.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ahmadmustafeen/static_web_upwork/issues"
+    "url": "https://github.com/akhatem/static_web_upwork/issues"
   },
-  "homepage": "https://github.com/ahmadmustafeen/static_web_upwork#readme"
+  "homepage": "https://github.com/akhatem/static_web_upwork#readme"
 }
